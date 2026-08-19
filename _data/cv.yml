@@ -25,10 +25,10 @@ cv:
         studyType: PhD
         start_date: 2025
         end_date: 2030 (expected)
-        score: "GPA 4.0 / 4.0"
         highlights:
           - "Area of research: SI/PI, glass packaging, heterogeneous integration"
           - "Advisor: Prof. Muhannad S. Bakir (Integrated 3D Systems Group)"
+          - "GPA: 4.0 / 4.0"
 
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
@@ -37,10 +37,10 @@ cv:
         studyType: MS
         start_date: 2023
         end_date: 2025
-        score: "GPA 3.80 / 4.0"
         highlights:
           - "Area of research: SI/PI, high-performance AI hardware design (HBM, chiplets)"
           - "Advisor: Prof. Joungho Kim (Terabyte Interconnection and Package Laboratory)"
+          - "GPA: 3.80 / 4.0"
 
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
@@ -90,7 +90,7 @@ cv:
         highlights:
           - "DMA controller design: developed high-efficiency DMA architectures, optimizing data transfer between SRAM and logic units for AI accelerators"
 
-    Honors & Awards:
+    Honors and Awards:
       - title: SK hynix Global PhD Fellowship
         date: 2026
         awarder: SK hynix Inc., Korea
@@ -106,41 +106,40 @@ cv:
       - title: National Science & Technology Scholarship
         awarder: Republic of Korea
 
-    Technical Skills:
+    Skills:
       - name: Simulation / EM Tools
         icon: fa-solid fa-microchip
-        keywords: "Ansys HFSS, SIwave, Maxwell, Q3D, Keysight ADS, Cadence Allegro, Cadence Virtuoso"
+        keywords:
+          - Ansys HFSS
+          - SIwave
+          - Maxwell
+          - Q3D
+          - Keysight ADS
+          - Cadence Allegro
+          - Cadence Virtuoso
 
       - name: Languages / Frameworks
         icon: fa-solid fa-code
-        keywords: "Python (NumPy, SciPy, Scikit-Learn), Verilog, MATLAB"
+        keywords:
+          - Python (NumPy, SciPy, Scikit-Learn)
+          - Verilog
+          - MATLAB
 
       - name: Machine Learning and AI Techniques
         icon: fa-solid fa-robot
-        keywords: "Reinforcement learning for optimization"
+        keywords:
+          - Reinforcement learning for optimization
 
-    Leadership & Activities:
-      - company: Korean Student Association, Georgia Tech
-        position: Vice President
-        location: Atlanta, GA
-        start_date: 2025
-        end_date: present
+    Leadership and Activities:
+      - label: Vice President, Korean Student Association, Georgia Tech
+        details: Atlanta, GA (2025 - present)
 
-      - company: Graduate Student Association of Electrical Engineering, KAIST
-        position: President
-        location: Daejeon, Korea
-        start_date: 2024
-        end_date: 2024
+      - label: President, Graduate Student Association of Electrical Engineering, KAIST
+        details: Daejeon, Korea (2024)
 
-      - company: Young Engineers Honor Society (YEHS), National Academy of Engineering of Korea
-        position: President
-        location: Seoul, Korea
-        start_date: 2022
-        end_date: 2022
+      - label: President, Young Engineers Honor Society (YEHS), National Academy of Engineering of Korea
+        details: Seoul, Korea (2022)
 
     Military Service:
-      - company: ROK Defense Ground Operations Command, Korea
-        position: Detection Analysis Specialist (Sergeant)
-        location: Korea
-        start_date: 2020
-        end_date: 2021
+      - label: Detection Analysis Specialist (Sergeant)
+        details: ROK Defense Ground Operations Command, Korea (2020 - 2021)
